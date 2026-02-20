@@ -1,0 +1,7 @@
+{
+  "name": "CanvasFlow - Infinite Whiteboard",
+  "description": "A production-ready, feature-rich online whiteboard with infinite canvas, smart shape detection, and local auto-save.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
